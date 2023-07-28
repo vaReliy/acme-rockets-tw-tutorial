@@ -1,0 +1,17 @@
+{
+  "name": "tailwindcss-tutorial-acme-rockets",
+  "version": "0.0.1",
+  "description": "The tailwindcss tutorial of mock 'Acme Rockets' company",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./build/css/styles.css",
+    "dev:w": "npx tailwindcss -i ./src/input.css -o ./build/css/styles.css --watch",
+    "prettier": "npx prettier --write ./build/*.html"
+  },
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "prettier-plugin-tailwindcss": "^0.4.1"
+  }
+}
