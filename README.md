@@ -1,6 +1,5 @@
 #The tailwindcss tutorial of mock 'Acme Rockets' company
 
-[src](https://youtu.be/lCxcTsOHrjo)
+[Acme Rockets Demo](https://vareliy.github.io/tailwindcss-tutorial-acme-rockets/)
 
-
-
+[Original src](https://youtu.be/lCxcTsOHrjo)
